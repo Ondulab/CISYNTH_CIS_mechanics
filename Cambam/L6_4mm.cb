@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="L6_4mm">
+  <layers>
+    <layer name="Par défaut" color="127,255,0">
+      <objects>
+        <pline id="10" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-4.9670324189340889">-24.7363548278809,21.0722560882568,-9.5</p>
+            <p b="-0.20133587174691817">-23.756746286077,20.1937522867761,-9.5</p>
+          </pts>
+        </pline>
+        <pline id="11" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="1.4047543721089051">105.191726678215,-9.50345134780455,-9.5</p>
+            <p b="0.71175698094247575">106.434997563305,-12.4656181292546,-9.5</p>
+          </pts>
+        </pline>
+        <pline id="12" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.53021762385921767">233.539733886719,23.4799575805664,-9.5</p>
+            <p b="-0.7756015138745741">235.457168579102,21.420825958252,-9.5</p>
+            <p b="-0.45089399659263946">232.164993287926,21.3344116149778,-9.5</p>
+          </pts>
+        </pline>
+        <pline id="13" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.53022280109844777">233.539733886719,-9.52004241943359,-9.5</p>
+            <p b="-0.96704943524819131">235.457168580479,-11.5791730818508,-9.5</p>
+            <p b="-0.3256962893289278">232.121032714844,-10.9334316253662,-9.5</p>
+          </pts>
+        </pline>
+        <pline id="14" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="9.8468895900997477">10.9647607859085,-12.6806669266124,-9.5</p>
+            <p b="0.10156669365815478">10.449039463135,-12.2319421818545,-9.5</p>
+          </pts>
+        </pline>
+        <pline id="15" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="1.6549497554949986">105.191726690933,20.1034507747884,-9.5</p>
+            <p b="0.604334532354874">103.964668273926,22.8520851135254,-9.5</p>
+          </pts>
+        </pline>
+        <pline id="16" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>237.300003051758,22.2999907370608,-9.5</p>
+            <p b="-0.41421316072244319">237.300003051758,-11.6999998092651,-9.5</p>
+            <p>234.300003051758,-14.6999998092651,-9.5</p>
+            <p b="-0.41421436568338088">-23.7000007629395,-14.6999998092651,-9.5</p>
+            <p>-26.7000007629395,-11.6999913092654,-9.5</p>
+            <p b="-0.40983845123166823">-26.6996650693283,22.3448791616073,-9.5</p>
+            <p>-23.7000007629395,25.2999992370605,-9.5</p>
+            <p b="-0.41421473865660158">234.300003062977,25.2999992369766,-9.5</p>
+          </pts>
+        </pline>
+        <pline id="17" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>9.60000038146973,-4.19999980926514,-9.5</p>
+            <p>99,-4.19999875926519,-9.5</p>
+            <p>99,0,-9.5</p>
+            <p>231.300003051758,0,-9.5</p>
+            <p>231.300003051758,18.2999946620607,-9.5</p>
+            <p>99,18.3000001120605,-9.5</p>
+            <p>99,21.7999992370605,-9.5</p>
+            <p>-20,21.7999992370605,-9.5</p>
+            <p>-20,17.7999992370605,-9.5</p>
+            <p>-24,17.7999992370605,-9.5</p>
+            <p>-23.999993425,-11.5,-9.5</p>
+            <p>2.29999995231628,-11.5,-9.5</p>
+          </pts>
+        </pline>
+      </objects>
+      <ModificationCount>0</ModificationCount>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Par défaut</ActiveLayer>
+</CADFile>
