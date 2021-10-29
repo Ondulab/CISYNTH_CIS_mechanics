@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-29T11:27:04.988Z" host="app.diagrams.net" agent="5.0 (X11)" etag="eMXhDOHcF7Mu1b1QFW3M" version="15.6.2" type="github">
+<mxfile modified="2021-10-29T11:32:12.098Z" host="app.diagrams.net" agent="5.0 (X11)" etag="x5kf_-WOo2NvbBPxBKbT" version="15.6.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,21 +21,6 @@
         </mxCell>
         <mxCell id="VlbZISmVs5P6DuMIeR8L-3" value="M4&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; M7" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.interaction;" vertex="1" parent="1">
           <mxGeometry x="440" y="547.5" width="85" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="VlbZISmVs5P6DuMIeR8L-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=none;shadow=0;sketch=0;" edge="1" parent="1" source="VlbZISmVs5P6DuMIeR8L-4" target="VlbZISmVs5P6DuMIeR8L-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="520" as="sourcePoint" />
-            <mxPoint x="610" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="105" />
-              <mxPoint x="250" y="160" />
-              <mxPoint x="250" y="210" />
-              <mxPoint x="310" y="260" />
-              <mxPoint x="690" y="260" />
-              <mxPoint x="780" y="350" />
-              <mxPoint x="780" y="580" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="VlbZISmVs5P6DuMIeR8L-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlbZISmVs5P6DuMIeR8L-12" target="VlbZISmVs5P6DuMIeR8L-29">
           <mxGeometry relative="1" as="geometry" />
@@ -120,13 +105,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlbZISmVs5P6DuMIeR8L-43" value="FLASH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="360" y="602.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="355" y="590" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VlbZISmVs5P6DuMIeR8L-46" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;shadow=0;strokeColor=default;gradientColor=none;elbow=vertical;entryX=0.14;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VlbZISmVs5P6DuMIeR8L-45" target="VlbZISmVs5P6DuMIeR8L-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlbZISmVs5P6DuMIeR8L-45" value="&lt;div&gt;RAM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="390" y="650" width="50" height="50" as="geometry" />
+          <mxGeometry x="390" y="632.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VlbZISmVs5P6DuMIeR8L-47" value="&lt;div&gt;POWER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="355" y="150" width="75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VlbZISmVs5P6DuMIeR8L-48" value="&lt;div&gt;POWER&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="690" width="75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VlbZISmVs5P6DuMIeR8L-49" value="" style="curved=1;endArrow=oval;html=1;rounded=0;shadow=0;sketch=0;strokeColor=default;gradientColor=none;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=8;endFill=1;" edge="1" parent="1" source="VlbZISmVs5P6DuMIeR8L-32" target="VlbZISmVs5P6DuMIeR8L-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="180" as="sourcePoint" />
+            <mxPoint x="220" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="680" />
+              <mxPoint x="940" y="260" />
+              <mxPoint x="260" y="290" />
+              <mxPoint x="230" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlbZISmVs5P6DuMIeR8L-51" value="&lt;div&gt;EURORACK CABLE&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.process;" vertex="1" parent="1">
+          <mxGeometry x="160" y="666" width="150" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
