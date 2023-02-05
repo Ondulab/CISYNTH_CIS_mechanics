@@ -1,0 +1,20 @@
+(footprint "CIS_Hole-Slot" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5A0F774F)
+  (descr "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm")
+  (tags "test point THT pad")
+  (attr exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -12) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 927bf154-15ae-420d-9854-631ea6a694df)
+  )
+  (fp_text value "CIS_Hole-Slot" (at 0 12) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7649692c-20a5-4bb0-98af-32f4ee71f7cd)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -12) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 27ab9431-542d-4a43-a06a-1bdb6078872c)
+  )
+  (pad "" np_thru_hole oval (at 1.5 0) (size 3 21.7) (drill oval 3 21.7) (layers F&B.Cu *.Mask) (tstamp e017bc44-d879-4cfd-aa1b-29ab7a3e0d1f))
+)

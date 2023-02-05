@@ -1,4 +1,4 @@
-21146497010310010
+21148172646020905
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2404,6 +2404,13 @@ CIS
 CIS_Edge_L2
 
 
+0
+0
+0
+CIS
+CIS_Hole-Slot
+THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm
+test point THT pad
 0
 0
 0
