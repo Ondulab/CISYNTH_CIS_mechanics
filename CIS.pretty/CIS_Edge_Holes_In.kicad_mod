@@ -1,0 +1,33 @@
+(footprint "CIS_Edge_Holes_In" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0.05 7 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2130b59b-5ae2-43b8-99da-d2abecc1c028)
+  )
+  (fp_text value "CIS_Edge_1" (at 0 6.9 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7a0b53e4-db2c-4100-9f68-dd8704c3d510)
+  )
+  (pad "" thru_hole circle (at 3.5 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp d06e6934-0c79-4866-9e6f-dcb6bf7b8302))
+  (pad "" thru_hole circle (at 3.5 -3.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp e24b9bfa-9c47-4d70-be59-f90e397fbe4b))
+  (pad "" thru_hole circle (at 88 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 26aeeb15-7fe8-45be-8810-2eda3033a600))
+  (pad "" thru_hole circle (at 88 -3.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 4a6c9db3-2768-41b0-b970-559ad1664ab2))
+  (pad "" thru_hole circle (at 176 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 6a8d102b-c6d0-4ee0-93c4-cfe8b4d74db4))
+  (pad "" thru_hole circle (at 176 -3.5287) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp ce34451c-6886-431c-a324-0b659cbe6d33))
+  (pad "" thru_hole circle (at 260.5 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp c619e112-0545-41dd-a8bd-7c98f0f94bf1))
+  (pad "" thru_hole circle (at 260.5 -3.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 49c23d90-881b-4913-ac86-3dd155fccd27))
+  (group "" (id 48c24139-2560-4e69-8d4a-4b0d19d685cc)
+    (members
+      26aeeb15-7fe8-45be-8810-2eda3033a600
+      49c23d90-881b-4913-ac86-3dd155fccd27
+      4a6c9db3-2768-41b0-b970-559ad1664ab2
+      6a8d102b-c6d0-4ee0-93c4-cfe8b4d74db4
+      7a0b53e4-db2c-4100-9f68-dd8704c3d510
+      c619e112-0545-41dd-a8bd-7c98f0f94bf1
+      ce34451c-6886-431c-a324-0b659cbe6d33
+      d06e6934-0c79-4866-9e6f-dcb6bf7b8302
+      e24b9bfa-9c47-4d70-be59-f90e397fbe4b
+    )
+  )
+)

@@ -142,37 +142,37 @@
     )
   )
 
-  (footprint "CIS:CIS_Edge_Holes" (layer "F.Cu")
+  (footprint "CIS:CIS_Edge_Holes_In" (layer "F.Cu")
     (tstamp c513a826-8b18-4520-a2bf-f8358d593a97)
     (at 16.62132 125)
     (attr through_hole board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0.05 7 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp be875fde-117f-41de-ac2d-cb72555e3593)
+      (tstamp d70037a1-e2ea-4b3e-aa0f-e84abcd28e17)
     )
     (fp_text value "CIS_Edge_1" (at 0 6.9 unlocked) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3dd08fce-ac7d-49a9-94f3-e2ba54f29902)
+      (tstamp 2403b100-8eb3-4f40-9b20-ce71fb90940d)
     )
-    (pad "" thru_hole circle (at 3.5 -28.5) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp f65d9575-1c26-4a51-a4c7-0b419b680a4f))
-    (pad "" thru_hole circle (at 3.5 -3.5) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 7e332f99-da6d-49b6-afd0-971d6081873c))
-    (pad "" thru_hole circle (at 88 -28.5) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp 6768afe3-01c8-4606-a632-654a1521139a))
-    (pad "" thru_hole circle (at 88 -3.5) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp f0db2dba-d276-425e-af0e-022eff0ea206))
-    (pad "" thru_hole circle (at 176 -28.5) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp e70d3230-a2bb-4eb3-9efa-291ab3255139))
-    (pad "" thru_hole circle (at 176 -3.5287) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp f5f3b307-d647-4e03-9e31-f12b7b83f5fd))
-    (pad "" thru_hole circle (at 260.5 -28.5) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp be23ae56-261a-4ed7-ad31-2f816396d6c7))
-    (pad "" thru_hole circle (at 260.5 -3.5) (size 3 3) (drill 2.2) (layers "*.Cu" "*.Mask") (tstamp f841a204-2a95-4897-a638-5a69ffe2c024))
-    (group "" (id 42a9493b-299e-433f-8afb-aba2ca5a0459)
+    (pad "" thru_hole circle (at 3.5 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp b769ab35-21c1-408d-9a42-8a3d9fa231a7))
+    (pad "" thru_hole circle (at 3.5 -3.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp a5c36d8f-bd0a-42ca-a588-cc2ef8509644))
+    (pad "" thru_hole circle (at 88 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 7702d058-639d-4e3d-9bff-d15eb0697b8c))
+    (pad "" thru_hole circle (at 88 -3.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 349ae92a-c492-4034-a268-dcc498797ef6))
+    (pad "" thru_hole circle (at 176 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 83e2f7a9-dd24-4961-ae78-27e4705e8da3))
+    (pad "" thru_hole circle (at 176 -3.5287) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 645a8216-3f41-42d8-bb06-84492e228e35))
+    (pad "" thru_hole circle (at 260.5 -28.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 80295565-0ccc-4044-a2c5-694a22489195))
+    (pad "" thru_hole circle (at 260.5 -3.5) (size 4 4) (drill 3.1) (layers "*.Cu" "*.Mask") (tstamp 2c4b7ad0-cc08-44a1-a9a5-16f6ac99a634))
+    (group "" (id 06c4bb1d-989a-41e3-b52e-45917ab24997)
       (members
-        3dd08fce-ac7d-49a9-94f3-e2ba54f29902
-        6768afe3-01c8-4606-a632-654a1521139a
-        7e332f99-da6d-49b6-afd0-971d6081873c
-        be23ae56-261a-4ed7-ad31-2f816396d6c7
-        e70d3230-a2bb-4eb3-9efa-291ab3255139
-        f0db2dba-d276-425e-af0e-022eff0ea206
-        f5f3b307-d647-4e03-9e31-f12b7b83f5fd
-        f65d9575-1c26-4a51-a4c7-0b419b680a4f
-        f841a204-2a95-4897-a638-5a69ffe2c024
+        2403b100-8eb3-4f40-9b20-ce71fb90940d
+        2c4b7ad0-cc08-44a1-a9a5-16f6ac99a634
+        349ae92a-c492-4034-a268-dcc498797ef6
+        645a8216-3f41-42d8-bb06-84492e228e35
+        7702d058-639d-4e3d-9bff-d15eb0697b8c
+        80295565-0ccc-4044-a2c5-694a22489195
+        83e2f7a9-dd24-4961-ae78-27e4705e8da3
+        a5c36d8f-bd0a-42ca-a588-cc2ef8509644
+        b769ab35-21c1-408d-9a42-8a3d9fa231a7
       )
     )
   )
@@ -224,7 +224,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp 1b6f94cd-d246-4cb2-8fcc-13714ce5dc68)
     (pts (xy 258.52132 117.45) (xy 258.52132 118.15))
     (height -3.599999)
-    (gr_text "0,7 mm" (at 260.971319 117.8 90) (layer "F.Fab") (tstamp 1b6f94cd-d246-4cb2-8fcc-13714ce5dc68)
+    (gr_text "0.7 mm" (at 260.971319 117.8 90) (layer "F.Fab") (tstamp 1b6f94cd-d246-4cb2-8fcc-13714ce5dc68)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4) suppress_zeroes)
@@ -242,7 +242,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp 59fe7bc0-54b4-4be1-ae65-a31906f014a7)
     (pts (xy 253.92132 118.15) (xy 22.62132 118.15))
     (height -2.85)
-    (gr_text "231,3 mm" (at 138.27132 119.85) (layer "F.Fab") (tstamp 59fe7bc0-54b4-4be1-ae65-a31906f014a7)
+    (gr_text "231.3 mm" (at 138.27132 119.85) (layer "F.Fab") (tstamp 59fe7bc0-54b4-4be1-ae65-a31906f014a7)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4) suppress_zeroes)
@@ -260,7 +260,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp 982d6a73-0b12-4852-985e-b24c9ce27aeb)
     (pts (xy 22.62132 118.15) (xy 22.62132 99.85))
     (height -2.5)
-    (gr_text "18,3 mm" (at 18.97132 109 90) (layer "F.Fab") (tstamp 982d6a73-0b12-4852-985e-b24c9ce27aeb)
+    (gr_text "18.3 mm" (at 18.97132 109 90) (layer "F.Fab") (tstamp 982d6a73-0b12-4852-985e-b24c9ce27aeb)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4) suppress_zeroes)
@@ -278,7 +278,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp d615311d-8ef8-4043-b110-0ec1ed741d84)
     (pts (xy 258.52132 117.45) (xy 258.52132 100.55))
     (height -1.5)
-    (gr_text "16,9 mm" (at 255.87132 109 90) (layer "F.Fab") (tstamp d615311d-8ef8-4043-b110-0ec1ed741d84)
+    (gr_text "16.9 mm" (at 255.87132 109 90) (layer "F.Fab") (tstamp d615311d-8ef8-4043-b110-0ec1ed741d84)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4) suppress_zeroes)

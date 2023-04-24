@@ -64,11 +64,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffffeff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "L5.kicad_prl",
+    "filename": "LG.kicad_prl",
     "version": 3
   },
   "project": {

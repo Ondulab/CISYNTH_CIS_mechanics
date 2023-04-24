@@ -198,7 +198,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "L3.kicad_pro",
+    "filename": "LD.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -235,7 +235,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "L3.wrl"
+      "vrml": "LD.wrl"
     },
     "page_layout_descr_file": ""
   },
