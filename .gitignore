@@ -1,6 +1,17 @@
-# Les ligne commençant par '#' sont des commentaires.
-
-# Ignorer tous les fichiers html
-*.bak
-*.tmp
+# Ignore FreeCad project cache files
+*.pyc
+*.fcstd1
 *.FCStd1
+*.fcstd2
+*.FCStd2
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon 
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
