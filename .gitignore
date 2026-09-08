@@ -15,3 +15,7 @@ Icon
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# FreeCAD temporary saves (name.FCStd.<uuid>) and backups
+*.FCStd.*
+*.FCBak
