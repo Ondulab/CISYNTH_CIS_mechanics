@@ -1,0 +1,36 @@
+{
+  "MIPI": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 17.201997831007983,
+    "shell_overlap_mm3": 0.0,
+    "pcb_overlap_mm3": 0.0,
+    "cis_overlap_mm3": 0.0
+  },
+  "Touch": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 15.486209445983611,
+    "shell_overlap_mm3": 0.0,
+    "pcb_overlap_mm3": 0.0,
+    "cis_overlap_mm3": 0.0
+  },
+  "J4": {
+    "valid": true,
+    "solids": 1,
+    "volume_mm3": 2227.252,
+    "shell_overlap_mm3": 0.0,
+    "pcb_overlap_mm3": 0.0,
+    "cis_overlap_mm3": 0.0
+  },
+  "flex_mutual_overlap_mm3": 0.0,
+  "parameters_provisional": {
+    "flex_thickness": 0.12,
+    "mipi_width": 2.6,
+    "touch_width": 2.4,
+    "active_length": 253.0,
+    "active_height": 6.9953917050691246,
+    "touch_radius": 1.355,
+    "mipi_radius": 0.45
+  }
+}

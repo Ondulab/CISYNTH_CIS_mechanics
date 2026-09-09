@@ -1,0 +1,40 @@
+{
+  "TBV4_MIPI_Flex": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.7000000000001272
+    },
+    "PCB": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.5999999999999996
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 3.063413129174696
+    }
+  },
+  "TBV4_Touch_Flex": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.4899999999999993
+    },
+    "PCB": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.7000000000000002
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 2.90413307468097
+    }
+  },
+  "original_features_preserved": 28,
+  "kicad_step_bounds_mm": [
+    256.0,
+    18.0,
+    0.91
+  ],
+  "kicad_outline_area_mm2": 4469.1415994187755,
+  "kicad_board_area_with_NPTH_mm2": 4453.052623542452,
+  "kicad_step_note": "Board-only STEP represents 0.91 mm dielectric; declared finished thickness is 1 mm (Cu + mask excluded by export).",
+  "freecad_outline_area_mm2": 4469.141592653588
+}
