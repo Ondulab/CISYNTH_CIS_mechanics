@@ -1,4 +1,5 @@
 # Intégration Touch Bar / PCB V4 — 9 septembre 2026
+> Mise à jour à partir des scans : voir [RELEVE_SCANS.md](RELEVE_SCANS.md). La zone active est maintenant 251 × 8,3 mm. Le reste du présent document décrit la première maquette ; les résultats sans collision de cette maquette ne valident pas les nouvelles nappes mesurées.
 
 L'assemblage principal `../assemblage_v4.0.0.FCStd` contient maintenant la zone OLED, les deux nappes pliées, les deux paires de connecteurs et l'enveloppe du RJ45. `Integration_TouchBar_V4.FCStd` est une copie de revue simplifiée (coque transparente), également exportée en STEP. Les objets ajoutés ont le préfixe interne `TBV4_` et des libellés français.
 

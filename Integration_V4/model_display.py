@@ -1,4 +1,5 @@
-"""FreeCAD Python: regenerate provisional Touch Bar envelopes in existing assembly.
+"""LEGACY FLEX GENERATOR: superseded by fold_measured.py for scan-derived flexes.
+FreeCAD Python: regenerate provisional Touch Bar envelopes in existing assembly.
 Coordinates below are PCB-local XY, Z from the bottom PCB face. Dimensions not
 measured on the original flex are explicitly provisional. No hidden bend-radius claim.
 """
@@ -28,9 +29,9 @@ def feature(parent,name,label,shape,color,provisional=True):
  o.addProperty('App::PropertyString','Validation','Integration');o.Validation='Enveloppe provisoire a mesurer sur la piece' if provisional else 'Extrait de la geometrie source'
  o.ViewObject.ShapeColor=color;o.ViewObject.LineColor=(.12,.12,.12);o.ViewObject.DisplayMode='Flat Lines';parts.append(o);return o
 # Optical zone: square-pixel ratio from RE; actual active width remains unmeasured.
-active_length=253.0;active_height=active_length*60/2170
-opt=Part.makePlane(active_length,active_height,P(-23.9+(262.7-active_length)/2,-.2+(10.8-active_height)/2,-9.405))
-a=feature(d.Part025,'ActiveArea','Zone OLED 2170 x 60 — dimensions provisoires',opt,(.045,.23,.31))
+active_length=251.0;active_height=8.3
+opt=Part.makePlane(active_length,active_height,P(-23.9+10.5,-.2+1.5,-9.405))
+a=feature(d.Part025,'ActiveArea','Zone OLED — dimensions mesurees 251 x 8,3 mm',opt,(.045,.23,.31))
 for name,val in [('LongueurActive',active_length),('HauteurActive',active_height)]:a.addProperty('App::PropertyLength',name,'Dimensions');setattr(a,name,val)
 d.Body023.ViewObject.ShapeColor=(.025,.025,.03);d.Pad019.ViewObject.ShapeColor=(.025,.025,.03)
 # Ribbon primitives: planar strips and circular bends with real finite thickness.

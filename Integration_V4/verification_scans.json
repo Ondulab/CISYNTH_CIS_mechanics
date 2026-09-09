@@ -1,0 +1,20 @@
+{
+  "active_area_mm": [
+    251.0,
+    8.3
+  ],
+  "global_active_min_mm": [
+    -13.399999999999999,
+    1.3,
+    -9.405000000000001
+  ],
+  "original_pcb_z_unchanged": true,
+  "proposal_shapes_valid": {
+    "Touch_Flex": true,
+    "Display_Flex": true,
+    "Touch_Blindage": true,
+    "Display_Blindage": true,
+    "PCB_Propose": true
+  },
+  "adopted_placement": false
+}
