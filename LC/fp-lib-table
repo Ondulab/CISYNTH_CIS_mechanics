@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "CIS")(type "KiCad")(uri "${KIPRJMOD}/../CIS.pretty")(options "")(descr ""))
-)
