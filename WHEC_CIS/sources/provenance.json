@@ -1,0 +1,15 @@
+{
+  "WHEC": {
+    "source_workspace": "Sp3ctra_CIS_Hardware/CIS/Electronique/Sp3ctra_CIS_electronics_v4/RD/CIS/LC3R216N-8008A.pdf",
+    "sha256": "76432c27f9d9d6d3cc9e27815a9bde2c64d44b3c659aa713294ce1cc97d42d39",
+    "reference": "LC3R216N-8008 / HHIK-8008A",
+    "revision": "A, 2023-12-18, Preliminary",
+    "page_mecanique": 14
+  },
+  "JST": {
+    "url": "https://www.jst.fr/core/file.get?path=doc/jst/family/pdf/eflz0125.pdf",
+    "sha256": "3cc55340e561676e14441527ddc4b418eabb2896e8eafd99652ed68c07ef9773",
+    "consultation": "2026-09-09",
+    "limite": "Plan famille FLZ, variante GAN ou equivalent WHEC a confirmer"
+  }
+}
