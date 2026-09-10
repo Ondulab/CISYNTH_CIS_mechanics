@@ -5,7 +5,7 @@
   "nominal_dpi": 200,
   "estimated_edge_uncertainty_mm": 0.25,
   "estimated_connector_position_uncertainty_mm": 0.5,
-  "departure_axis": "Hypothese : retrait depuis petit bord, en attente de confirmation",
+  "departure_axis": "Confirmation utilisateur 2026-09-10 : sortie horizontale sous ecran ; amorce de pli possible a 2/3 mm ou pres du bord",
   "screen": {
     "length_mm": 262.7,
     "width_mm": 10.8,

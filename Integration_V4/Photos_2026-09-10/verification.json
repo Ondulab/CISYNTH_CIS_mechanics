@@ -1,0 +1,208 @@
+{
+  "pcb_valid": true,
+  "preserved_source_objects": 227,
+  "saved_cad_alignment": {
+    "PCB_Photos": 6.394884621840902e-14,
+    "TBV4_MIPI_Flex": 0.0,
+    "TBV4_Touch_Flex": 0.0,
+    "TBV4_J1_Socket": 4.440892098500626e-16,
+    "TBV4_J2_Socket": 4.440892098500626e-16,
+    "TBV4_J1_Plug": 0.0,
+    "TBV4_J2_Plug": 0.0,
+    "TBV4_J4_Envelope": 4.440892098500626e-16
+  },
+  "against_source_solids": {
+    "PCB_Propose": [],
+    "Touch_Flex": [],
+    "Touch_Blindage": [],
+    "Touch_Connecteur": [],
+    "Display_Flex": [],
+    "Display_Blindage": [],
+    "Display_Connecteur": [],
+    "J1_Socket": [],
+    "J2_Socket": [],
+    "RJ45": []
+  },
+  "hidden_reference_collisions": {
+    "PCB_Propose": [
+      {
+        "object": "Part__Feature439",
+        "label": "TC2030-IDC004",
+        "volume_mm3": 0.5857538458367063,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature440",
+        "label": "TC2030-IDC005",
+        "volume_mm3": 1.3191347526057222,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature442",
+        "label": "TC2030-IDC007",
+        "volume_mm3": 0.5857538458367064,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature446",
+        "label": "TC2030-IDC011",
+        "volume_mm3": 0.5857538458367062,
+        "hidden_ancestor": "TC2030_IDC"
+      }
+    ],
+    "Touch_Flex": [
+      {
+        "object": "Part__Feature439",
+        "label": "TC2030-IDC004",
+        "volume_mm3": 0.08786307687550633,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature442",
+        "label": "TC2030-IDC007",
+        "volume_mm3": 0.08786307687550633,
+        "hidden_ancestor": "TC2030_IDC"
+      }
+    ],
+    "Touch_Blindage": [],
+    "Touch_Connecteur": [],
+    "Display_Flex": [
+      {
+        "object": "Part__Feature",
+        "label": "TC2030-IDC",
+        "volume_mm3": 0.033518699742299526,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature439",
+        "label": "TC2030-IDC004",
+        "volume_mm3": 0.08786307687550633,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature440",
+        "label": "TC2030-IDC005",
+        "volume_mm3": 0.24129159242403372,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature442",
+        "label": "TC2030-IDC007",
+        "volume_mm3": 0.08786307687550633,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature450",
+        "label": "TC2030-IDC015",
+        "volume_mm3": 0.0025910729662958006,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature457",
+        "label": "TC2030-IDC022",
+        "volume_mm3": 0.03351869974229952,
+        "hidden_ancestor": "TC2030_IDC"
+      }
+    ],
+    "Display_Blindage": [
+      {
+        "object": "Part__Feature",
+        "label": "TC2030-IDC",
+        "volume_mm3": 0.3016682976806951,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature440",
+        "label": "TC2030-IDC005",
+        "volume_mm3": 2.171624331816301,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature442",
+        "label": "TC2030-IDC007",
+        "volume_mm3": 0.7907676918795554,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature450",
+        "label": "TC2030-IDC015",
+        "volume_mm3": 0.02331965669666223,
+        "hidden_ancestor": "TC2030_IDC"
+      },
+      {
+        "object": "Part__Feature457",
+        "label": "TC2030-IDC022",
+        "volume_mm3": 0.30166829768069514,
+        "hidden_ancestor": "TC2030_IDC"
+      }
+    ],
+    "Display_Connecteur": [],
+    "J1_Socket": [],
+    "J2_Socket": [
+      {
+        "object": "Part__Feature442",
+        "label": "TC2030-IDC007",
+        "volume_mm3": 0.037700387124225,
+        "hidden_ancestor": "TC2030_IDC"
+      }
+    ],
+    "RJ45": [
+      {
+        "object": "Part__Feature459",
+        "label": "male_main_head_Varsay\u008dlan",
+        "volume_mm3": 25.501986494260848,
+        "hidden_ancestor": "ethernet_assem_Step_ap214_"
+      }
+    ]
+  },
+  "pcb_area_freecad_mm2": 4342.977218613886,
+  "pcb_area_kicad_mm2": 4342.977226523802,
+  "pcb_area_difference_mm2": 7.909915439086035e-06,
+  "kicad_bbox": "BoundBox (-1.11022e-16, -4.996e-16, 0, 256, 18, 0.91)",
+  "pcb_face_difference_mm2": 5.482695538905347e-06,
+  "kicad_model_roundtrip": {
+    "Ecran": {
+      "bbox_residual_mm": 1.7763568394002505e-15,
+      "volume_residual_mm3": 1.8189894035458565e-12
+    },
+    "Touch_Flex": {
+      "bbox_residual_mm": 3.730349362740526e-13,
+      "volume_residual_mm3": 7.105427357601002e-13
+    },
+    "Touch_Blindage": {
+      "bbox_residual_mm": 3.730349362740526e-13,
+      "volume_residual_mm3": 2.6147972675971687e-12
+    },
+    "Touch_Connecteur": {
+      "bbox_residual_mm": 8.171241461241152e-14,
+      "volume_residual_mm3": 2.3092638912203256e-14
+    },
+    "Display_Flex": {
+      "bbox_residual_mm": 1.509903313490213e-13,
+      "volume_residual_mm3": 1.2931877790833823e-12
+    },
+    "Display_Blindage": {
+      "bbox_residual_mm": 6.483702463810914e-14,
+      "volume_residual_mm3": 2.1032064978498966e-12
+    },
+    "Display_Connecteur": {
+      "bbox_residual_mm": 9.237055564881302e-14,
+      "volume_residual_mm3": 8.881784197001252e-16
+    },
+    "J1_Socket": {
+      "bbox_residual_mm": 9.385640922232596e-07,
+      "volume_residual_mm3": 1.7763568394002505e-15
+    },
+    "J2_Socket": {
+      "bbox_residual_mm": 6.143592656826513e-08,
+      "volume_residual_mm3": 5.329070518200751e-15
+    },
+    "RJ45": {
+      "bbox_residual_mm": 1.000000003614776e-06,
+      "volume_residual_mm3": 0.0
+    }
+  },
+  "kicad_model_z_datum_mm": 0.995,
+  "checked_source_obstacles": 42,
+  "adoption_status": "Nominal CAD only; scan registration, small bend radius, J2 footprint and PCB mounting changes require physical validation."
+}

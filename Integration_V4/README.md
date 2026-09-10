@@ -1,3 +1,5 @@
+> **Version du 10 septembre :** [montage issu des photos de profil](Photos_2026-09-10/README.md), avec fichiers FreeCAD et positions KiCad synchronisés. Le document ci-dessous décrit une étape antérieure.
+
 # Intégration Touch Bar / PCB V4 — 9 septembre 2026
 > Mise à jour à partir des scans : voir [RELEVE_SCANS.md](RELEVE_SCANS.md). La zone active est maintenant 251 × 8,3 mm. Le reste du présent document décrit la première maquette ; les résultats sans collision de cette maquette ne valident pas les nouvelles nappes mesurées.
 

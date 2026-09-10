@@ -1,3 +1,5 @@
+> **Version du 10 septembre :** [montage issu des photos de profil](Photos_2026-09-10/README.md), avec fichiers FreeCAD et positions KiCad synchronisés. Le document ci-dessous décrit une étape antérieure.
+
 # Reprise à partir des scans — état non validé du montage
 
 ## Réalisé

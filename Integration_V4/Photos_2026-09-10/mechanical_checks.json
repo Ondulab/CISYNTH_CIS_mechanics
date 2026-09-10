@@ -1,0 +1,141 @@
+{
+  "Touch_Flex": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.08750000000013003
+    },
+    "PCB_propose": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.6750000000000043
+    },
+    "PCB_original": {
+      "overlap_mm3": 28.88711062116074,
+      "clearance_mm": 0.0
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.2499999999999838
+    }
+  },
+  "Touch_Blindage": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.7283185307179636
+    },
+    "PCB_propose": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.14999999999999858
+    },
+    "PCB_original": {
+      "overlap_mm3": 65.87179018504108,
+      "clearance_mm": 0.0
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 7.734293438874603
+    }
+  },
+  "Touch_Connecteur": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.7245000000001287
+    },
+    "PCB_propose": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.2750000000000026
+    },
+    "PCB_original": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.8750000000000022
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.3999999999999848
+    }
+  },
+  "Display_Flex": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.05871368215749599
+    },
+    "PCB_propose": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.6000000000000005
+    },
+    "PCB_original": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.005365107778066583
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.349999999999999
+    }
+  },
+  "Display_Blindage": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.10949119694501329
+    },
+    "PCB_propose": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.4499999999999993
+    },
+    "PCB_original": {
+      "overlap_mm3": 26.690521435368407,
+      "clearance_mm": 0.0
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 4.5499999999999865
+    }
+  },
+  "Display_Connecteur": {
+    "coque": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 4.275
+    },
+    "PCB_propose": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 0.17500000000000027
+    },
+    "PCB_original": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.775
+    },
+    "CIS": {
+      "overlap_mm3": 0.0,
+      "clearance_mm": 1.5000000000000002
+    }
+  },
+  "Touch_RJ45_overlap_mm3": 0.0,
+  "Display_RJ45_overlap_mm3": 0.0,
+  "RJ45_coque_overlap_mm3": 0.0,
+  "PCB_CIS_overlap_mm3": 0.0,
+  "PCB_coque_overlap_mm3": 0.0,
+  "PCB_CIS_overlap_bounds": "BoundBox (1.79769e+308, 1.79769e+308, 1.79769e+308, -1.79769e+308, -1.79769e+308, -1.79769e+308)",
+  "PCB_Original_CIS_overlap_mm3": 0.0,
+  "PCB_CIS_clearance_mm": 0.2878679656440286,
+  "PCB_area_mm2": 4342.977218613885,
+  "PCB_valid": true,
+  "PCB_solid_count": 1,
+  "CIS_opening": {
+    "bounds_mm": [
+      224.365,
+      1.5849999999999964,
+      241.815,
+      7.784999999999998
+    ],
+    "corner_radius_mm": 0.5,
+    "clearance_mm": 0.35,
+    "reason": "CIS connector underside intersects PCB raised by 1.6 mm",
+    "baseline_overlap_mm3": 24.151000000000845
+  },
+  "ribbon_to_screen": {
+    "Touch_Flex": 0.0,
+    "Touch_Blindage": 0.0,
+    "Touch_Connecteur": 0.0,
+    "Display_Flex": 0.0,
+    "Display_Blindage": 0.0,
+    "Display_Connecteur": 0.0
+  }
+}
